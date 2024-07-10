@@ -1,2 +1,3 @@
 # github-project
-this is my repository
+this is my first Git repository.
+autor - Tayyeb
